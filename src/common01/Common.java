@@ -2,7 +2,7 @@ package common01;
 
 public class Common {
 	public static void main(String[] args) {
-		System.out.println("°øÅë ÇÁ·ÎÁ§Æ®ÀÔ´Ï´Ù");
-		System.out.println("°øÅë ÆÄÀÏ ÁøÇà Áß");
+		System.out.println("ê³µí†µí”„ë¡œì íŠ¸ ì…ë‹ˆë‹¤.");
+		System.out.println("ê³µí†µ íŒŒì¼ ì…ë‹ˆë‹¤.");
 	}
 }
